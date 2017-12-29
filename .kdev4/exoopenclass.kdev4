@@ -1,15 +1,6 @@
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
 [Buildset]
 BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x18\x00e\x00x\x00o\x00o\x00p\x00e\x00n\x00c\x00l\x00a\x00s\x00s)
 
->>>>>>> Stashed changes
-=======
-[Buildset]
-BuildItems=@Variant(\x00\x00\x00\t\x00\x00\x00\x00\x01\x00\x00\x00\x0b\x00\x00\x00\x00\x01\x00\x00\x00\x18\x00e\x00x\x00o\x00o\x00p\x00e\x00n\x00c\x00l\x00a\x00s\x00s)
-
->>>>>>> Stashed changes
 [Filters]
 size=31
 
@@ -167,11 +158,6 @@ targets=2
 inclusive=0
 pattern=.hg
 targets=2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-=======
->>>>>>> Stashed changes
 
 [Launch]
 Launch Configurations=Launch Configuration 0
@@ -209,7 +195,3 @@ Build_Type=0
 Extra_Arguments=
 Install_Prefix=
 QMake_Binary=C:/Qt/5.9.1/mingw53_32/bin/qmake.exe
-<<<<<<< Updated upstream
->>>>>>> Stashed changes
-=======
->>>>>>> Stashed changes
